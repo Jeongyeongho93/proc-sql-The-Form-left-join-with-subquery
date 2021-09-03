@@ -1,5 +1,5 @@
 # proc-sql-vol.1
-Use multiple tables to create new data table all the columns from the existing data by proc sql query 
+create a new table using multiple tables to consider how to write proper subqueries with great data structure based on proc sql environment
 
 data data12;
 call code code code code;
